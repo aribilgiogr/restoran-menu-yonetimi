@@ -23,7 +23,7 @@ Restoranların kendi menülerini kolaylıkla oluşturup düzenleyebildiği ve m�
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/aribilgiogr/restoran-menu-yonetimi.git
    cd restoran-menu-yonetimi
    ```
 
@@ -58,4 +58,5 @@ restoran-menu-yonetimi/
 ## 💡 Kullanım
 
 1. Uygulamayı açtıktan sonra menü kategorileri ve ürünleri ekleyin.
+
 2. Müşteriler kodu tarayarak menüye erişebilir.
